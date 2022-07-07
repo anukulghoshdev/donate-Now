@@ -1,0 +1,275 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top-banner h1{
+    font-size: 50px;
+    color: white;
+}
+
+.display-block{
+    display: block;
+}
+.p-text{
+    width: 550px;
+    display: inline-block;
+}
+
+.p-text p{
+    color: white;
+}
+.top-banner{
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 21vh 0;    
+    background-image:
+    linear-gradient(to bottom, rgba(1, 4, 22, 0.304), rgb(7, 4, 6)),
+    url(../img/donation12.png);
+    margin-bottom: 100px;
+
+
+}
+
+
+
+
+.Donate-button{
+    text-decoration: none;
+    background-color: rgba(252, 93, 93, 0.877);
+    padding: 10px 20px;
+    color: snow;
+    border-radius: 4px;
+} 
+
+
+.donate-today .donate-today-text{
+    text-align: center; 
+}
+
+.donate-today .donate-today-text h1{
+    font-size: 35px;
+}
+
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+    justify-content: center;
+}
+.flexible-container .price{
+    background-color: #ffffff;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+.flexible-container .price .price-button{
+    text-decoration: none;
+    color: rgb(245, 87, 87);
+    font-size: 25px;
+    font-weight: 800;
+    border: 3px solid rgb(232, 70, 70);
+    padding: 25px 18px;
+    border-radius: 5px;
+    background-color: rgba(128, 128, 119, 0.142);
+}
+.flexible-container .price .button{
+    text-decoration: none;
+    color: rgb(108, 90, 90);
+    font-size: 25px;
+    font-weight: 800;
+    padding: 25px 18px;
+}
+.hr{
+    width: 50%;
+    color: darkgray;
+
+}
+.donate-today{
+    margin-bottom: 100px;
+}
+
+.donate-amount{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+.Donate-plan{
+    margin-bottom: 100px;
+}
+.Donate-plan-text{
+    text-align: center;
+}
+.Donate-plan-text h1{
+    font-size: 35px;
+}
+.Donate-plan-text p{
+    color: rgb(130, 99, 99);
+}
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container2>div {
+    width: 350px;
+    margin: 10px;
+    height: 300px;
+}
+
+.food {
+    background-color: rgba(115, 141, 141, 0.185);
+}
+
+
+.shelter {
+    background-color: rgba(255, 127, 129, 0.185);
+}
+
+
+.education {
+    background-color: rgba(222, 243, 85, 0.263);
+}
+
+.padding {
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.flexible-container22{
+    display: flex;
+    margin-bottom: 100px;
+}
+.flexible-container22 .half-width h1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.half-width{
+    width: 50%;
+    padding-left: 4%;
+    margin-left: 1%;
+}
+.half-width h1{
+    font-size: 35px;
+}
+.half-width img{
+    width: 80%;
+    border-radius: 15px;
+
+}
+.flexible-container22 .half-width2 h1{
+    font-size: 4 0px;
+    font-weight: bolder;
+}
+
+.half-width2{
+    width: 40%;
+    margin-left: 70px;
+
+}
+.half-width2 h1{
+    font-size: 35px;
+}
+.half-width2 img{
+    width: 90%;
+    border-radius: 15px;
+
+}
+
+
+.updates-section{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+.updates-section{
+    margin-bottom: 130px;
+}
+
+.get-updates-text h1{
+    font-size: 35px;
+}
+
+.subscribe-input{
+    width: 100%;
+    background-color: rgba(243, 201, 62, 0.354);
+    display: inline;
+    padding: 60px 120px;
+    border-radius: 3px;
+
+}
+input[type=email] {
+    background-color: silver;
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+
+}
+.subscribe-button{
+
+    background-color: rgba(252, 93, 93, 0.877);
+    padding: 10px 20px;
+    height: 42px;
+    width: 120px;
+    color: snow;
+    border: none;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.get-updates-text p{
+    color: darkgray;
+}
+
+
+
+
+.footer{
+    height: 110px;
+    padding: 35px;
+    background-color: black;
+    text-align: center;
+}
+.footer h1{
+    font-family: 'Lobster', cursive;
+    color: rgba(247, 71, 71, 0.877);
+    font-weight: 900;
+    font-size: 30px;
+}
+.footer p{
+    color: white;
+}
+
+
+
+
+
+
+
+
